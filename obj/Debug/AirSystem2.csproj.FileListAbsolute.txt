@@ -1,0 +1,24 @@
+C:\Users\Vdani\source\repos\AirSystem2\bin\Debug\AirSystem2.exe.config
+C:\Users\Vdani\source\repos\AirSystem2\bin\Debug\AirSystem2.exe
+C:\Users\Vdani\source\repos\AirSystem2\bin\Debug\AirSystem2.pdb
+C:\Users\Vdani\source\repos\AirSystem2\obj\Debug\AirSystem2.csprojAssemblyReference.cache
+C:\Users\Vdani\source\repos\AirSystem2\obj\Debug\AirSystem2.frmLogin.resources
+C:\Users\Vdani\source\repos\AirSystem2\obj\Debug\AirSystem2.Properties.Resources.resources
+C:\Users\Vdani\source\repos\AirSystem2\obj\Debug\AirSystem2.csproj.GenerateResource.cache
+C:\Users\Vdani\source\repos\AirSystem2\obj\Debug\AirSystem2.csproj.CoreCompileInputs.cache
+C:\Users\Vdani\source\repos\AirSystem2\obj\Debug\AirSystem2.exe
+C:\Users\Vdani\source\repos\AirSystem2\obj\Debug\AirSystem2.pdb
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\bin\Debug\AirSystem2.exe.config
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\bin\Debug\AirSystem2.exe
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\bin\Debug\AirSystem2.pdb
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.csprojAssemblyReference.cache
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.frmLogin.resources
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.Properties.Resources.resources
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.csproj.GenerateResource.cache
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.csproj.CoreCompileInputs.cache
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.exe
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.pdb
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.Views.frmListarUsuarios.resources
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.Views.frmNovoUsuario.resources
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.Views.frmTelaPrincipalUsuario.resources
+C:\Users\Vdani\OneDrive\Área de Trabalho\EAD_Senai\VisualStudio\AirSystem2\obj\Debug\AirSystem2.Views.frmTelaPrincipalAdministrador.resources
